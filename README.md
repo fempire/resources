@@ -46,8 +46,14 @@ You will learn how to Get Ahead, Stand Out, Become More Visible, and Advocate fo
 
 ### Websites
 
-#### [Girls Who Code(https://girlswhocode.com/)]
+#### [Girls Who Code](https://girlswhocode.com/)
 
 Girls Who Code is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
 
 - Topics: Summer Programs
+
+#### [Built by Girls](https://www.builtbygirls.com/)
+
+Built by Girls prepares female and non-binary students to step boldly into careers powered by technology. They provide support via mentorship, events to develop tactical skills, and access to networking connections and beyond.
+
+- Topics: Mentorship, New Developer
