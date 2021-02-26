@@ -78,6 +78,12 @@ Ada Developers Academy is a nonprofit, tuition-free coding school for women and 
 
 - Topics: Education
 
+#### [AkiraChix](https://akirachix.com/)
+
+AkiraChix is committed to the diversity and inclusion of women in the technical workforce and changing the economic capabilities of young women to shift societal norms. They offer codeHive, a one year fully subsidized residential hands-on technical training program based out of East Africa that provides education and economic opportunity to young women between 18-24 years old from socio-economically disadvantaged backgrounds.
+
+- Topics: Education, Mentorship
+
 #### [AnitaB.org](https://anitab.org/)
 
 AnitaB.org connects, inspires, and guides women in computing while supporting them in technical fields, as well as organizations that employ them and academic institutions that train the next generation.
@@ -96,6 +102,24 @@ Built by Girls prepares female and non-binary students to step boldly into caree
 
 - Topics: Mentorship, New Developer, Events
 
+#### [Canada Learning Code](https://www.canadalearningcode.ca/)
+
+Canada Learning code brings accessible computer science to communities across Canada, particularly to support women-identified, transgender and beyond binary individuals. They provide workshops with their Code Squad, whose mission is to put technology in the hands of Canadians who may not otherwise have the experience.
+
+- Topics: Education, Mentorship, Volunteer
+
+#### [codebar](https://codebar.io/)
+
+codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech. They offer coaches, events, tutorials, and a [blog](https://codebar.medium.com/) that highlights many women in tech.
+
+- Topics: Education, Blog, Mentorship, Volunteer
+
+#### [Coding For Her](https://codingforher.com/)
+
+Coding For Her is dedicated to inviting girls and women to the world of technology through their resources and workshop classes. They aim to help aspiring female coders and entrepreneurs to learn digital software and website-building through casual, friendly, and intimate workshops.
+
+- Topics: Education, Blog
+
 #### [Girl Develop It](https://girldevelopit.com/)
 
 Girl Develop It is a nonprofit organization that creates welcoming, supportive opportunities for women and non-binary adults to learn software development skills.
@@ -112,13 +136,19 @@ Girl Geek X helps host events, create networking connections, and offer a job bo
 
 Created by Marie-Philippe Gill, this blog outlines her life as an undergraduate student and combines her passion for journalism and technology. She uses this medium to promote women in tech, how-to's, and tutorials.
 
-- Topics: Blog, CMS
+- Topics: Blog, Coding Resources
 
 #### [Girls Who Code](https://girlswhocode.com/)
 
 Girls Who Code is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
 
 - Topics: Summer Programs
+
+#### [Hackbright Academy](https://hackbrightacademy.com/)
+
+Hackbright's driving mission is to change the ratio in engineering and technology by providing the industry with strong, smart, and talented women. They offer courses, career development, mentorship, and an alumnae network.
+
+- Topics: Education, Mentorship, Networking
 
 #### [Kode with Klossy](https://www.kodewithklossy.com/)
 
@@ -138,21 +168,53 @@ Out in Tech unites the LGBTQ+ tech community by creating opportunities for their
 
 - Topics: Networking, Job Board, Community
 
+#### [PyLadies](https://pyladies.com/)
+
+PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leaders in the Python open-source community. Their twitter [@PyLadies](https://twitter.com/pyladies) is also active in promoting women worldwide.
+
+- Topics: Python, Mentorship
+
 #### [Rewriting The Code](https://rewritingthecode.org/)
 
 Rewriting the Code supports and empowers all women in tech through intersctional communities, mentorship, industry experience, and education resources.
 
-- Topics: New Developer, Mentorship, Education
+- Topics: New Developer, Mentorship, Education, Coding Resources
+
+#### [She's Coding](https://shescoding.org/)
+
+She’s Coding is a nonprofit organization that developed this open-source project in cooperation with the documentary film [CODE: Debugging the Gender Gap](https://www.finishlinefeaturefilms.com/code/). They provide education, resources, and actionable guidelines for anyone who wants to help bridge the gender gap in the computer science field.
+
+- Topics: Education, Mentorship, Volunteer
+
+#### [Skillcrush](https://skillcrush.com/)
+
+Skillcrush offers courses to help more women, people of color, the LGBTQ+ community, people with disabilities, people without college degrees, and others break into the tech world. They offer courses in coding, design, user experience, and digital marketing.
+
+- Topics: New Developer, Education, Mentorship
 
 #### [Tech Ladies](https://www.hiretechladies.com/)
 
-Tech Ladies is a worldwide community that provides support via an online group, job board, and opporutnities to learn. Tech Ladies is a proud member of the UN's Equal Pay International Coalition.
+Tech Ladies is a worldwide community that provides support via an online group, job board, and opportunities to learn. Tech Ladies is a proud member of the UN's Equal Pay International Coalition.
 
 - Topics: Job Board, Community, Networking
 
+#### [Technovation](https://www.technovation.org/)
+
+Technovation is a global tech education nonprofit organization that empowers girls and families to become leaders, creators, and problem-solvers. They offer two programs - Technovation Girls and Technovation Families - which bring kids and adults together to solve big problems in their communities.
+
+- Topics: Education, Mentorship
+
+#### [Techtonica](https://techtonica.org/)
+
+Techtonica partners with tech companies to provide free tech training, laptops, living stipends, and job placement to women and non-binary adults in need in the San Francisco Bay Area. Their full-time software engineering training program is a free, virtual, year-long program that provides the opportunity for women and non-binary adults with low incomes to learn technical skills and start their first job in tech.
+
+- Topics: Mentorship, Volunteer, Education
+
 #### [TechWomen](https://www.techwomen.org/)
 
-TechWomen is an initiative of the U.S. Department of State's Bureau of Educational and Cultural Affairs (ECA). Their mission is to empower, connect, and support the next generation of women leaders in STEM (science, technology, engineering, and mathematics)
+TechWomen is an initiative of the U.S. Department of State's Bureau of Educational and Cultural Affairs (ECA). Their mission is to empower, connect, and support the next generation of women leaders in STEM (science, technology, engineering, and mathematics).
+
+- Topics: Education, Mentorship
 
 #### [Women Who Code](https://www.womenwhocode.com/)
 
