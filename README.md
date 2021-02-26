@@ -12,6 +12,7 @@ This document will hold a list of various resources (such as articles, tutorials
     - [Formatting](#formatting)
   - [Resources](#resources)
     - [Books](#books)
+    - [Podcasts](#podcasts)
     - [Websites](#websites)
 
 <!-- /TOC -->
@@ -38,11 +39,23 @@ Short description of the resource. It’s recommended to copy and paste the best
 
 ### Books
 
+#### [The DevelopHer Playbook by Lauren Hasson](https://www.amazon.com/DevelopHer-Playbook-Simple-Advocate-Yourself-ebook/dp/B08SQM4P5J)
+
+You will learn how to Get Ahead, Stand Out, Become More Visible, and Advocate for Yourself as a woman in tech.
+
+- Topics: Self-worth, Advocate
+
 #### [Female Innovators at Work: Women on Top of Tech by Danielle Newnham](https://www.amazon.com/Female-Innovators-Work-Women-Tech/dp/1484223632)
 
 This book describes the experiences and successes of female innovators and entrepreneurs in the still largely male-dominated tech-world in twenty candid interviews. It highlights the varied life and career stories that lead these women to the top positions in the technology industry that they are in now.
 
 - Topics: Interviews, Advice
+
+#### [Girl Code: Unlocking the Secrets to Success, Sanity, and Happiness for the Female Entrepreneur by Cara Alwill Leyba](https://www.amazon.com/Girl-Code-Unlocking-Happiness-Entrepreneur/dp/0525533087/)
+
+Girl Code is a roadmap for female entrepreneurs, professional women, “side hustlers” (those with a day job plus a part-time small business), and anyone in between.
+
+- Topics: Entrepreneurship
 
 #### [Pivot: The Only Move That Matters is Your Next One by Jenny Blake](https://www.amazon.com/Pivot-Only-Move-That-Matters/dp/1591848202)
 
@@ -50,11 +63,17 @@ Jenny Blake reveals that the success of your next career move depends on your ab
 
 - Topics: Changing Careers, Advice
 
-#### [The DevelopHer Playbook by Lauren Hasson](https://www.amazon.com/DevelopHer-Playbook-Simple-Advocate-Yourself-ebook/dp/B08SQM4P5J)
+#### [Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick](https://www.amazon.com/Women-Color-Tech-Generation-Technology/dp/1119633486)
 
-You will learn how to Get Ahead, Stand Out, Become More Visible, and Advocate for Yourself as a woman in tech.
+Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators seeks to help women of color overcome the obstacles that prevent them from pursuing and staying in tech careers.
 
-- Topics: Self-worth, Advocate
+- Diversity
+
+#### [Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories by Tarah Wheeler](https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories/dp/1632171406/)
+
+As the CEO of a startup, Tarah Wheeler is all too familiar with the challenges female tech professionals face on a daily basis. That’s why she’s teamed up with other high-achieving women within the field—from entrepreneurs and analysts to elite hackers and gamers—to provide a roadmap for women looking to jump-start, or further develop, their tech career.
+
+- Topics: Advice
 
 ### Podcasts
 
