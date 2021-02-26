@@ -12,6 +12,7 @@ This document will hold a list of various resources (such as articles, tutorials
     - [Formatting](#formatting)
   - [Resources](#resources)
     - [Books](#books)
+    - [Podcasts](#podcasts)
     - [Websites](#websites)
 
 <!-- /TOC -->
@@ -46,13 +47,13 @@ This book describes the experiences and successes of female innovators and entre
 
 #### [Pivot: The Only Move That Matters is Your Next One by Jenny Blake](https://www.amazon.com/Pivot-Only-Move-That-Matters/dp/1591848202)
 
-Jenny Blake reveals that the success of your next career move depends on your ability to determine your best move. This book encourages women to strategize their biggest strenghts to ensure that theri next career puts them in a position to achieve their goals.
+Jenny Blake reveals that the success of your next career move depends on your ability to determine your best move. This book encourages women to strategize their biggest strengths to ensure that their next career puts them in a position to achieve their goals.
 
 - Topics: Changing Careers, Advice
 
 #### [The DevelopHer Playbook by Lauren Hasson](https://www.amazon.com/DevelopHer-Playbook-Simple-Advocate-Yourself-ebook/dp/B08SQM4P5J)
 
-You will learn how to Get Ahead, Stand Out, Become More Visible, and Advocate for Yourself as a woman in tech.
+You will learn how to get ahead, stand out, become more visible, and advocate for yourself as a woman in tech.
 
 - Topics: Self-worth, Advocate
 
@@ -74,7 +75,7 @@ Brought by Kody with Klossy, Sam and Jenny uncover stories of techsetters; heari
 
 #### [Ada Developers Academy](https://adadevelopersacademy.org/)
 
-Ada Developers Academy is a nonprofit, tuition-free coding school for women and gender diverse adults. They focus on serving low income people, underrepresented minorities, and members of the LGBTQIA+ community. Their program combines classroom training and a paid, learning nternship to teach students how to write code and how to become a software developer.
+Ada Developers Academy is a nonprofit, tuition-free coding school for women and gender diverse adults. They focus on serving low income people, underrepresented minorities, and members of the LGBTQIA+ community. Their program combines classroom training and a paid, learning internship to teach students how to write code and how to become a software developer.
 
 - Topics: Education
 
@@ -140,13 +141,13 @@ Out in Tech unites the LGBTQ+ tech community by creating opportunities for their
 
 #### [Rewriting The Code](https://rewritingthecode.org/)
 
-Rewriting the Code supports and empowers all women in tech through intersctional communities, mentorship, industry experience, and education resources.
+Rewriting the Code supports and empowers all women in tech through intersectional communities, mentorship, industry experience, and education resources.
 
 - Topics: New Developer, Mentorship, Education
 
 #### [Tech Ladies](https://www.hiretechladies.com/)
 
-Tech Ladies is a worldwide community that provides support via an online group, job board, and opporutnities to learn. Tech Ladies is a proud member of the UN's Equal Pay International Coalition.
+Tech Ladies is a worldwide community that provides support via an online group, job board, and opportunities to learn. Tech Ladies is a proud member of the UN's Equal Pay International Coalition.
 
 - Topics: Job Board, Community, Networking
 
