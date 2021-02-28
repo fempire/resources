@@ -42,19 +42,19 @@ Short description of the resource. It’s recommended to copy and paste the best
 
 This book describes the experiences and successes of female innovators and entrepreneurs in the still largely male-dominated tech-world in twenty candid interviews. It highlights the varied life and career stories that lead these women to the top positions in the technology industry that they are in now.
 
-- Topics: Interviews, Advice
+- Topics: Advice, Interviews
 
 #### [Pivot: The Only Move That Matters is Your Next One by Jenny Blake](https://www.amazon.com/Pivot-Only-Move-That-Matters/dp/1591848202)
 
 Jenny Blake reveals that the success of your next career move depends on your ability to determine your best move. This book encourages women to strategize their biggest strenghts to ensure that theri next career puts them in a position to achieve their goals.
 
-- Topics: Changing Careers, Advice
+- Topics: Advice, Changing Careers
 
 #### [The DevelopHer Playbook by Lauren Hasson](https://www.amazon.com/DevelopHer-Playbook-Simple-Advocate-Yourself-ebook/dp/B08SQM4P5J)
 
 You will learn how to Get Ahead, Stand Out, Become More Visible, and Advocate for Yourself as a woman in tech.
 
-- Topics: Self-worth, Advocate
+- Topics: Advocate, Self-worth
 
 ### Podcasts
 
@@ -68,7 +68,7 @@ Ladies Code Collective is hosted by Alex Morton - Episodes cover the coding jour
 
 Brought by Kody with Klossy, Sam and Jenny uncover stories of techsetters; hearing guests' career defining moments and unconventional paths in the tech world.
 
-- Topics: Tech, Changing Careers
+- Topics: Changing Careers, Tech
 
 ### Websites
 
@@ -88,19 +88,19 @@ AkiraChix is committed to the diversity and inclusion of women in the technical 
 
 AnitaB.org connects, inspires, and guides women in computing while supporting them in technical fields, as well as organizations that employ them and academic institutions that train the next generation.
 
-- Topics: Events, Education, Scholarships
+- Topics: Education, Events, Scholarships
 
 #### [Black Girls Code](https://www.blackgirlscode.com/)
 
 Black Girls Code provides young and pre-teens girls of color opportunities to learn in-demand skills in technology and computer programming to become builders of technological innovation.
 
-- Topics: Hackathon, Scholarships, Scratch, Ruby on Rails, Mentorship
+- Topics: Hackathon, Mentorship, Ruby on Rails, Scholarships
 
 #### [Built by Girls](https://www.builtbygirls.com/)
 
 Built by Girls prepares female and non-binary students to step boldly into careers powered by technology. They provide support via mentorship, events to develop tactical skills, and access to networking connections and beyond.
 
-- Topics: Mentorship, New Developer, Events
+- Topics: Events, Mentorship, New Developer
 
 #### [Canada Learning Code](https://www.canadalearningcode.ca/)
 
@@ -112,13 +112,13 @@ Canada Learning code brings accessible computer science to communities across Ca
 
 codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech. They offer coaches, events, tutorials, and a [blog](https://codebar.medium.com/) that highlights many women in tech.
 
-- Topics: Education, Blog, Mentorship, Volunteer
+- Topics: Blog, Education, Mentorship, Volunteer
 
 #### [Coding For Her](https://codingforher.com/)
 
 Coding For Her is dedicated to inviting girls and women to the world of technology through their resources and workshop classes. They aim to help aspiring female coders and entrepreneurs to learn digital software and website-building through casual, friendly, and intimate workshops.
 
-- Topics: Education, Blog
+- Topics: Blog, Education
 
 #### [Girl Develop It](https://girldevelopit.com/)
 
@@ -130,7 +130,7 @@ Girl Develop It is a nonprofit organization that creates welcoming, supportive o
 
 Girl Geek X helps host events, create networking connections, and offer a job board for women in tech. An archive of prior podcasts are also available for listening.
 
-- Topics: Job Board, Events, Networking
+- Topics: Events, Job Board, Networking
 
 #### [Girls Know Tech](https://girlknowstech.com/)
 
@@ -154,7 +154,7 @@ Hackbright's driving mission is to change the ratio in engineering and technolog
 
 Kode With Klossy creates learning experiences and opportunities for young women that increase their confidence and inspire them to pursue their passions in a technology driven world.
 
-- Topics: New Developer, Scholarships, Education
+- Topics: Education, New Developer, Scholarships
 
 #### [MotherCoders](http://www.mothercoders.org/)
 
@@ -166,19 +166,19 @@ MotherCoders wants to create economic opportunity to catalyze social change by h
 
 Out in Tech unites the LGBTQ+ tech community by creating opportunities for their members to advance their careers, grow their networks, and leverage tech for social change.
 
-- Topics: Networking, Job Board, Community
+- Topics: Community, Job Board, Networking
 
 #### [PyLadies](https://pyladies.com/)
 
 PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leaders in the Python open-source community. Their twitter [@PyLadies](https://twitter.com/pyladies) is also active in promoting women worldwide.
 
-- Topics: Python, Mentorship
+- Topics: Mentorship, Python
 
 #### [Rewriting The Code](https://rewritingthecode.org/)
 
 Rewriting the Code supports and empowers all women in tech through intersctional communities, mentorship, industry experience, and education resources.
 
-- Topics: New Developer, Mentorship, Education, Coding Resources
+- Topics: Coding Resources, Education, Mentorship, New Developer
 
 #### [She's Coding](https://shescoding.org/)
 
@@ -190,13 +190,13 @@ She’s Coding is a nonprofit organization that developed this open-source proje
 
 Skillcrush offers courses to help more women, people of color, the LGBTQ+ community, people with disabilities, people without college degrees, and others break into the tech world. They offer courses in coding, design, user experience, and digital marketing.
 
-- Topics: New Developer, Education, Mentorship
+- Topics: Education, New Developer, Mentorship
 
 #### [Tech Ladies](https://www.hiretechladies.com/)
 
 Tech Ladies is a worldwide community that provides support via an online group, job board, and opportunities to learn. Tech Ladies is a proud member of the UN's Equal Pay International Coalition.
 
-- Topics: Job Board, Community, Networking
+- Topics: Community, Job Board, Networking
 
 #### [Technovation](https://www.technovation.org/)
 
@@ -208,7 +208,7 @@ Technovation is a global tech education nonprofit organization that empowers gir
 
 Techtonica partners with tech companies to provide free tech training, laptops, living stipends, and job placement to women and non-binary adults in need in the San Francisco Bay Area. Their full-time software engineering training program is a free, virtual, year-long program that provides the opportunity for women and non-binary adults with low incomes to learn technical skills and start their first job in tech.
 
-- Topics: Mentorship, Volunteer, Education
+- Topics: Education, Mentorship, Volunteer
 
 #### [TechWomen](https://www.techwomen.org/)
 
@@ -220,4 +220,4 @@ TechWomen is an initiative of the U.S. Department of State's Bureau of Education
 
 Women Who Code inspires women to excel in technology careers by offering networking events, blogs, and a job board.
 
-- Topics: Job Board, Networking, Mentorship, Coding Resources, Events
+- Topics: Coding Resources, Events, Job Board, Mentorship, Networking
