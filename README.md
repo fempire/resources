@@ -154,7 +154,7 @@ Hackbright's driving mission is to change the ratio in engineering and technolog
 
 The Julia Evans blog highlights the excitement of programming and how to understand the underlying systems in coding to create technically innovative work that enable you to solve hard problems. Her brag documents blog specifically outline how to create a brag document, which helps you get your work recognized.
 
-- Topics: Blog
+- Topics: Advocate, Blog, Self-worth
 
 #### [Kode with Klossy](https://www.kodewithklossy.com/)
 
