@@ -68,7 +68,7 @@ Ladies Code Collective is hosted by Alex Morton - Episodes cover the coding jour
 
 Brought by Kody with Klossy, Sam and Jenny uncover stories of techsetters; hearing guests' career defining moments and unconventional paths in the tech world.
 
-- Topics: Changing Careers, Tech
+- Topics: Changing Careers
 
 ### Websites
 
@@ -94,7 +94,7 @@ AnitaB.org connects, inspires, and guides women in computing while supporting th
 
 Black Girls Code provides young and pre-teens girls of color opportunities to learn in-demand skills in technology and computer programming to become builders of technological innovation.
 
-- Topics: Hackathon, Mentorship, Ruby on Rails, Scholarships
+- Topics: Hackathon, Mentorship, Scholarships
 
 #### [Built by Girls](https://www.builtbygirls.com/)
 
@@ -150,6 +150,12 @@ Hackbright's driving mission is to change the ratio in engineering and technolog
 
 - Topics: Education, Mentorship, Networking
 
+#### [Julia Evans](https://jvns.ca/blog/brag-documents/)
+
+The Julia Evans blog highlights the excitement of programming and how to understand the underlying systems in coding to create technically innovative work that enable you to solve hard problems. Her brag documents blog specifically outline how to create a brag document, which helps you get your work recognized.
+
+- Topics: Blog
+
 #### [Kode with Klossy](https://www.kodewithklossy.com/)
 
 Kode With Klossy creates learning experiences and opportunities for young women that increase their confidence and inspire them to pursue their passions in a technology driven world.
@@ -172,7 +178,7 @@ Out in Tech unites the LGBTQ+ tech community by creating opportunities for their
 
 PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leaders in the Python open-source community. Their twitter [@PyLadies](https://twitter.com/pyladies) is also active in promoting women worldwide.
 
-- Topics: Mentorship, Python
+- Topics: Mentorship
 
 #### [Rewriting The Code](https://rewritingthecode.org/)
 
