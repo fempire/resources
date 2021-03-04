@@ -135,11 +135,23 @@ Girls in Tech offers over 50 chapters worldwide that creates a community of wome
 
 - Topics: Blog, Jobs Board
 
+#### [Diva Tech Talk](http://www.divatechtalk.com/)
+
+Hosted by Nicole Johnson Scheffler and Kathleen Norton-Schock - Diva Tech Talk is a specialized communication channel highlighting women doing wonderful things in the technology arena by creating podcasts from interviews with successful female individuals in the field and covering various technology events.
+
+- Topics: Self-worth
+
 #### [Ladies Code Collective](https://www.ladiescodecollective.com/podcast)
 
-Ladies Code Collective is hosted by Alex Morton - Episodes cover the coding journey and how new developers can expand their mindset to thrive in the coding field.
+Hosted by Alex Morton - Episodes cover the coding journey and how new developers can expand their mindset to thrive in the coding field.
 
 - Topics: New Developer
+
+#### [Ladybug Podcast](https://www.ladybug.dev/)
+
+Hosted by Emma Bostian, Sidney Buckner, Ali Spittel, and Kelly Vaughn - We started the Ladybug Podcast as a few lady Twitter acquaintances looking to add our voices to the male-dominated tech podcast space.
+
+- Topics: Advice
 
 #### [Techsetters](https://www.kodewithklossy.com/)
 
@@ -147,6 +159,19 @@ Brought by Kody with Klossy, Sam and Jenny uncover stories of techsetters; heari
 
 - Topics: Changing Careers
 
+#### [Women in Tech Podcast](https://podcast.womenintechshow.com/)
+
+Hosted by Espree Devora - The purpose of the show is for every listener to walk away feeling 'If She Can Do It So Can I'.
+
+- Topics: Self-worth
+
+#### [The Women in Tech Show](https://thewomenintechshow.com/)
+
+Hosted by Edaena Salinas - A podcast about what we work on, not what it feels like to be a woman in tech.
+
+- Topics: Typical Day
+
+### Websites
 ### 💻 Websites
 
 #### [Ada's List](https://www.adaslist.co/)
