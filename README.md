@@ -35,9 +35,11 @@ Short description of the resource. It’s recommended to copy and paste the best
 - Topics: Topic 1, Topic 2, Topic 3
 ```
 
+---
+
 ## Resources
 
-### Books
+### 📚 Books
 
 #### [Female Innovators at Work: Women on Top of Tech by Danielle Newnham](https://www.amazon.com/Female-Innovators-Work-Women-Tech/dp/1484223632)
 
@@ -57,7 +59,81 @@ You will learn how to get ahead, stand out, become more visible, and advocate fo
 
 - Topics: Advocate, Self-worth
 
-### Podcasts
+### 🏘 Events & Meetups
+
+#### [CoderDojo](https://coderdojo.com/attend-a-dojo/)
+
+CoderDojo has built a global network of free, volunteer-led, community-based programming clubs for young people. Anyone between 7-17 years old can visit a Dojo where they can learn to code, build a website, or create an app or a game in a creaive and social environment.
+
+- Topics: Education, Events, Volunteer
+
+#### [Digital Life Design](http://dld-conference.com/)
+
+DLD (Digital-Life-Design) have created an interdisciplinary and internationally connected platform for people eager to change the world in the digital era. They host global events (DLD All Stars, DLD Sync, and many more)that are geared towards young entrepreneurs looking to get an all-around look at coding, data, business, social media, and more.
+
+- Topics: Entrepreneutrship, Events
+
+#### [Lesbians Who Tech & Allies](https://lesbianswhotech.org/pridesummit2021/)
+
+Lesbians Who Tech & Allies is a community of LGBTQ women, non-binary and trans individuals in and around tech with goals of inclusivity and diversity in tech. They offer a virtual queer inclusive summits such as (Not IRL) Pride Summit with speakers from all backgrounds and sponsor inclusivity in all of their talks. They also offer coding scholarships through their bootcamp partners and a jobs board through [include.io](https://we.include.io/).
+
+- Topics: Events, Jobs Board, Networking, Scholarships
+
+#### [Microsoft Ignite](https://myignite.microsoft.com/home)
+
+Microsoft Ignite host many events such as product roundtables and events geared towards women in tech. They also provide coding resources, networking opportunities, and archived sessions of past events.
+
+- Topics: Coding Resources, Events, Networking
+
+#### [SheHacks](https://shehacks.ca/)
+
+SheHacks is Canada's largest all-female non-binary hackathon that has since grown into other branches like TechTogether. Their virtual events invite people of all experience, background, and gender identity to turn their tech ideas into reality. As of 2021, they are adding events such as Hacker Olympics, Startups Panels, and Speed Networking events.
+
+- Topics: Coding Resources, Events, Networking
+
+#### [TechTogether](https://techtogether.io/index)
+
+Branched off of SheHacks, TechTogether is one of the world's largest all-female hackathons to adopt gender-inclusive language and policies.
+
+- Topics: Coding Resources, Events
+
+#### [Women in Engineering](https://www.meetup.com/topics/women-in-engineering/)
+
+Hosted by meetup.com, Women in Engineering groups are hosted all around the world and focus on STEM-related activities, Engineering, Education, and much more.
+
+- Topics: Education, Events, STEM
+
+#### [Women in Technology](https://www.meetup.com/topics/witi/)
+
+Hosted by meetup.com, Women in Technology groups are hosted worldwide and focus on promoting women's community and involvement in technology industries. Related topics include web development, entrepreneurship, new technology, and more.
+
+- Topics: Events, Entrepreneurship
+
+#### [Women Powering Technology (WPT)](http://www.womenpoweringtechnology.org/category/events/)
+
+Women Powering Technology is an organization with local chapters in Canada created to inspire, support, elevate, and empower women in technology personally, professionaly, and together as a community. They offer valuable workshops, events that spark networking opportunities, and a blog that outlines panels and tips for women in tech. They also work with Technovation, a flagship program for the world's largest global tech entrepreneurship competition for girls.
+
+- Topics: Blog, Events, Networking, Volunteer
+
+#### [Write/Speak/Code](https://www.meetup.com/pro/writespeakcode/)
+
+Write/Speak/Code is a group that empowers women and non-binary software developers to become leaders, public speakers, and open source contributors. They run event, conferences, and workshops across the United States.
+
+- Topics: Education, Events
+
+### 🎙 Podcasts
+
+#### [Future of StoryTelling](https://futureofstorytelling.org/content#podcast)
+
+Future of StoryTelling is a community of people from worlds of media, technology, and communications who are exploring how storytelling is evolving in the digital age. In addition to podcasts, they host a two day event and a wide range of content, programming, and workshops.
+
+- Topics: Coding Resources, Events
+
+#### [Girls in Tech Podcast](https://girlsintech.org/podcast/)
+
+Girls in Tech offers over 50 chapters worldwide that creates a community of women who are passionate in changing tech. Their podcast highlights various women in their prospective fields and how tech has influenced their work. They also offer a blog and a jobs site for women in tech.
+
+- Topics: Blog, Jobs Board
 
 #### [Ladies Code Collective](https://www.ladiescodecollective.com/podcast)
 
@@ -71,7 +147,13 @@ Brought by Kody with Klossy, Sam and Jenny uncover stories of techsetters; heari
 
 - Topics: Changing Careers
 
-### Websites
+### 💻 Websites
+
+#### [Ada's List](https://www.adaslist.co/)
+
+Based out of London, Ada's List virtually connects women to encourage a more inclusive and diverse environment in the tech industry. They provide resources such as a jobs channel, events, conferences, and courses with a discount, and opportunities for mentorship and support.
+
+- Topics: Coding Resources, Education, Events, Jobs Board, Mentorship, Networking
 
 #### [Ada Developers Academy](https://adadevelopersacademy.org/)
 
@@ -93,9 +175,9 @@ AnitaB.org connects, inspires, and guides women in computing while supporting th
 
 #### [Black Girls Code](https://www.blackgirlscode.com/)
 
-Black Girls Code provides young and pre-teens girls of color opportunities to learn in-demand skills in technology and computer programming to become builders of technological innovation.
+Black Girls Code provides young and pre-teens girls of color opportunities to learn in-demand skills in technology and computer programming to become builders of technological innovation. They also provide events open to the public ranging from hackathons to enrichment seminars.
 
-- Topics: Hackathon, Mentorship, Scholarships
+- Topics: Events, Hackathon, Mentorship, Scholarships
 
 #### [Built by Girls](https://www.builtbygirls.com/)
 
@@ -199,6 +281,12 @@ Skillcrush offers courses to help more women, people of color, the LGBTQ+ commun
 
 - Topics: Education, New Developer, Mentorship
 
+#### [Stemettes](https://stemettes.org/)
+
+Stemettes is an award-winning social enterprise working across the UK and beyong to inspire and support young women and non-binary people into STEM. They offer a series of cohort programs, events, and content platforms for women in share ideas and connect.
+
+- Topics: Blog, Networking, STEM
+
 #### [Tech Ladies](https://www.hiretechladies.com/)
 
 Tech Ladies is a worldwide community that provides support via an online group, job board, and opportunities to learn. Tech Ladies is a proud member of the UN's Equal Pay International Coalition.
@@ -221,7 +309,13 @@ Techtonica partners with tech companies to provide free tech training, laptops, 
 
 TechWomen is an initiative of the U.S. Department of State's Bureau of Educational and Cultural Affairs (ECA). Their mission is to empower, connect, and support the next generation of women leaders in STEM (science, technology, engineering, and mathematics).
 
-- Topics: Education, Mentorship
+- Topics: Education, Mentorship, STEM
+
+#### [Women in Tech Allies](https://womenintechallies.com/)
+
+Women in Tech Allies is a group that advocates for diversity in technology through networking, tech talks, mentorship, and more. They support women who are currently in tech and those transitioning into the new field from other backgrounds.
+
+- Topics: Coding Resources, Events, Mentorship, Networking
 
 #### [Women Who Code](https://www.womenwhocode.com/)
 
