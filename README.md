@@ -41,11 +41,53 @@ Short description of the resource. It’s recommended to copy and paste the best
 
 ### 📚 Books
 
+#### [Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+
+Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. The result is this book.
+
+- Topics: Interviews
+
+#### [The DevelopHer Playbook by Lauren Hasson](https://www.amazon.com/DevelopHer-Playbook-Simple-Advocate-Yourself-ebook/dp/B08SQM4P5J)
+
+You will learn how to Get Ahead, Stand Out, Become More Visible, and Advocate for Yourself as a woman in tech.
+
+- Topics: Self-worth, Advocate
+
 #### [Female Innovators at Work: Women on Top of Tech by Danielle Newnham](https://www.amazon.com/Female-Innovators-Work-Women-Tech/dp/1484223632)
 
 This book describes the experiences and successes of female innovators and entrepreneurs in the still largely male-dominated tech-world in twenty candid interviews. It highlights the varied life and career stories that lead these women to the top positions in the technology industry that they are in now.
 
 - Topics: Advice, Interviews
+
+#### [Girl Code: Gaming, Going Viral, and Getting It Done by Andrea Gonzales](https://www.amazon.com/Girl-Code-Gaming-Going-Getting/dp/006247247X)
+
+Perfect for aspiring coders everywhere, Girl Code is the story of two teenage tech phenoms who met at Girls Who Code summer camp, teamed up to create a viral video game, and ended up becoming world famous.
+
+- Topics: Young Developers
+
+#### [Girl Code: Unlocking the Secrets to Success, Sanity, and Happiness for the Female Entrepreneur by Cara Alwill Leyba](https://www.amazon.com/Girl-Code-Unlocking-Happiness-Entrepreneur/dp/0525533087/)
+
+Girl Code is a roadmap for female entrepreneurs, professional women, “side hustlers” (those with a day job plus a part-time small business), and anyone in between.
+
+- Topics: Entrepreneurship
+
+#### [Girls Who Code: Learn to Code and Change the World by Reshma Saujani](https://www.amazon.com/Girls-Who-Code-Learn-Change/dp/042528753X)
+
+Part how-to, part girl-empowerment, and all fun, from the leader of the movement championed by Sheryl Sandberg, Malala Yousafzai, and John Legend.
+
+- Topics: Young Developers
+
+#### [Hello Ruby: Adventures in Coding by Linda Liukas](https://www.amazon.com/Hello-Ruby-Adventures-Linda-Liukas/dp/1250065003/)
+
+Hello Ruby is half picture book and half activity book rolled into one adorable package. It introduces programming without requiring a computer at all.
+
+- Topics: Young Developers
+
+#### [How to Code a Rollercoaster by Josh Funk](https://www.amazon.com/How-Code-Rollercoaster-Josh-Funk/dp/0425292037)
+
+Pearl and Pascal take their coding adventures to the amusement park in this follow-up picture book from our Girls Who Code program!
+
+- Topics: Young Developers
 
 #### [Pivot: The Only Move That Matters is Your Next One by Jenny Blake](https://www.amazon.com/Pivot-Only-Move-That-Matters/dp/1591848202)
 
@@ -53,11 +95,23 @@ Jenny Blake reveals that the success of your next career move depends on your ab
 
 - Topics: Advice, Changing Careers
 
-#### [The DevelopHer Playbook by Lauren Hasson](https://www.amazon.com/DevelopHer-Playbook-Simple-Advocate-Yourself-ebook/dp/B08SQM4P5J)
+#### [Sasha Savvy Loves to Code by Sasha Ariel Alston](https://www.amazon.com/Sasha-Savvy-Loves-Ariel-Alston/dp/0997135425/)
 
-You will learn how to get ahead, stand out, become more visible, and advocate for yourself as a woman in tech.
+The main character, Sasha Savvy, is a super smart 10-year old African-American girl, who lives in Washington, DC. Sasha must choose which class to take for summer camp.
 
-- Topics: Advocate, Self-worth
+- Topics: Young Developers
+
+#### [Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators by Susanne Tedrick](https://www.amazon.com/Women-Color-Tech-Generation-Technology/dp/1119633486)
+
+Women of Color in Tech: A Blueprint for Inspiring and Mentoring the Next Generation of Technology Innovators seeks to help women of color overcome the obstacles that prevent them from pursuing and staying in tech careers.
+
+- Topics: Diversity
+
+#### [Women in Tech: Take Your Career to the Next Level with Practical Advice and Inspiring Stories by Tarah Wheeler](https://www.amazon.com/Women-Tech-Practical-Inspiring-Stories/dp/1632171406/)
+
+As the CEO of a startup, Tarah Wheeler is all too familiar with the challenges female tech professionals face on a daily basis. That’s why she’s teamed up with other high-achieving women within the field—from entrepreneurs and analysts to elite hackers and gamers—to provide a roadmap for women looking to jump-start, or further develop, their tech career.
+
+- Topics: Advice
 
 ### 🏘 Events & Meetups
 
