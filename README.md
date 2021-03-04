@@ -75,7 +75,7 @@ DLD (Digital-Life-Design) have created an interdisciplinary and internationally 
 
 #### [Lesbians Who Tech & Allies](https://lesbianswhotech.org/pridesummit2021/)
 
-Lesbians Who Tech & Allies is a community of LGBTQ women, non-binary and trans individuals in and around tech with goals of inclusivity and diversity in tech. They offer a virtual queer inclusive summits such as (Not IRL) Pride Summit with speakers from all backgrounds and sponsor inclusivity in all of their talks. They also offer coding scholarships through their bootcamp partners and a jobs board through https://we.include.io/.
+Lesbians Who Tech & Allies is a community of LGBTQ women, non-binary and trans individuals in and around tech with goals of inclusivity and diversity in tech. They offer a virtual queer inclusive summits such as (Not IRL) Pride Summit with speakers from all backgrounds and sponsor inclusivity in all of their talks. They also offer coding scholarships through their bootcamp partners and a jobs board through [include.io](https://we.include.io/).
 
 - Topics: Events, Jobs Board, Networking, Scholarships
 
