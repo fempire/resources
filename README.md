@@ -11,9 +11,11 @@ This document will hold a list of various resources (such as articles, tutorials
   - [Contributing](#contributing)
     - [Formatting](#formatting)
   - [Resources](#resources)
-    - [Books](#books)
-    - [Podcasts](#podcasts)
+    - [📚 Books](#-books)
+    - [🏘 Events & Meetups](#-events--meetups)
+    - [🎙 Podcasts](#-podcasts)
     - [Websites](#websites)
+    - [💻 Websites](#-websites)
 
 <!-- /TOC -->
 
@@ -25,7 +27,9 @@ Submit a pull request with the missing resources!
 
 ### Formatting
 
-Add the resource alphabetically, per type of media.
+Add the resource alphabetically, per resource type.
+
+Add the topics alphabetically, per resource.
 
 ```markdown
 #### [Resource Title](http://www.examplewebsitelink.com)
