@@ -216,6 +216,12 @@ Hosted by Emma Bostian, Sidney Buckner, Ali Spittel, and Kelly Vaughn - We start
 
 - Topics: Advice
 
+#### [She's in Tech](https://devchat.tv/podcasts/shes-in-tech/)
+
+Hosted by This Dot - Discussions of tech with strong females in tech.
+
+- Topics: Advice
+
 #### [Techsetters](https://www.kodewithklossy.com/)
 
 Brought by Kody with Klossy, Sam and Jenny uncover stories of techsetters; hearing guests' career defining moments and unconventional paths in the tech world.
