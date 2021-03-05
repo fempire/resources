@@ -14,7 +14,6 @@ This document will hold a list of various resources (such as articles, tutorials
     - [📚 Books](#-books)
     - [🏘 Events & Meetups](#-events--meetups)
     - [🎙 Podcasts](#-podcasts)
-    - [Websites](#websites)
     - [💻 Websites](#-websites)
 
 <!-- /TOC -->
@@ -229,7 +228,6 @@ Hosted by Edaena Salinas - A podcast about what we work on, not what it feels li
 
 - Topics: Typical Day
 
-### Websites
 ### 💻 Websites
 
 #### [Ada's List](https://www.adaslist.co/)
