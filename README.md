@@ -142,6 +142,12 @@ Microsoft Ignite host many events such as product roundtables and events geared 
 
 - Topics: Coding Resources, Events, Networking
 
+#### [Monthly Mentoring: Women in Tech](https://www.thisdot.co/women-in-tech)
+
+Join us monthly for mentoring sessions with This Dot Lab. The goal for these sessions is to provide a resource for women in the tech industry. Whether it’s advice on technical skills or personal growth, we would love to help you grow a foundation for professional success!
+
+- Topics: Advice, Mentoring, Resources, Networking
+
 #### [SheHacks](https://shehacks.ca/)
 
 SheHacks is Canada's largest all-female non-binary hackathon that has since grown into other branches like TechTogether. Their virtual events invite people of all experience, background, and gender identity to turn their tech ideas into reality. As of 2021, they are adding events such as Hacker Olympics, Startups Panels, and Speed Networking events.
@@ -207,6 +213,12 @@ Hosted by Alex Morton - Episodes cover the coding journey and how new developers
 #### [Ladybug Podcast](https://www.ladybug.dev/)
 
 Hosted by Emma Bostian, Sidney Buckner, Ali Spittel, and Kelly Vaughn - We started the Ladybug Podcast as a few lady Twitter acquaintances looking to add our voices to the male-dominated tech podcast space.
+
+- Topics: Advice
+
+#### [She's in Tech](https://devchat.tv/podcasts/shes-in-tech/)
+
+Hosted by This Dot - Discussions of tech with strong females in tech.
 
 - Topics: Advice
 
