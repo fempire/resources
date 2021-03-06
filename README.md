@@ -296,6 +296,12 @@ Coding For Her is dedicated to inviting girls and women to the world of technolo
 
 - Topics: Blog, Education
 
+#### [Fempire Twitter List](https://twitter.com/i/lists/830840221579218945)
+
+Various women in tech that you should follow.
+
+- Topics: Networking
+
 #### [Girl Develop It](https://girldevelopit.com/)
 
 Girl Develop It is a nonprofit organization that creates welcoming, supportive opportunities for women and non-binary adults to learn software development skills.
@@ -409,6 +415,12 @@ TechWomen is an initiative of the U.S. Department of State's Bureau of Education
 Women in Tech Allies is a group that advocates for diversity in technology through networking, tech talks, mentorship, and more. They support women who are currently in tech and those transitioning into the new field from other backgrounds.
 
 - Topics: Coding Resources, Events, Mentorship, Networking
+
+#### [Women Tech Speakers, Organizers, and Mentors](https://github.com/fempire/women-tech-speakers-organizers)
+
+A list of women tech speakers, organizers, and mentors with various backgrounds and locations.
+
+- Topics: Mentorship, Networking
 
 #### [Women Who Code](https://www.womenwhocode.com/)
 
